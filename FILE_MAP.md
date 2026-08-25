@@ -1,0 +1,32 @@
+# File Map
+
+- `03_Linear_Algebra/gauss_seidel_3x3.m`
+- `03_Linear_Algebra/gaussian_elimination_3x3.m`
+- `03_Linear_Algebra/gaussian_elimination_system.m`
+- `01_Basics/array_sum_product.m`
+- `01_Basics/cylinder_surface_area_volume.m`
+- `01_Basics/matlab_basics_control_flow.m`
+- `02_Plotting_and_Visualization/normal_distribution_plot.m`
+- `02_Plotting_and_Visualization/tank_volume_vs_depth.m`
+- `08_Engineering_Applications/annual_payment_calculation.m`
+- `08_Engineering_Applications/beam_calculation_data.mat`
+- `08_Engineering_Applications/run_beam_calculation.m`
+- `08_Engineering_Applications/singularity_function_beam.m`
+- `08_Engineering_Applications/spherical_tank_volume.m`
+- `06_Series_and_Approximation/taylor_series_sine.m`
+- `06_Series_and_Approximation/taylor_series_sine_variant.m`
+- `04_Root_Finding_and_Iteration/bisection_concentration.m`
+- `04_Root_Finding_and_Iteration/fixed_point_concentration.m`
+- `04_Root_Finding_and_Iteration/fixed_point_concentration_variant.m`
+- `04_Root_Finding_and_Iteration/run_successive_substitution.m`
+- `04_Root_Finding_and_Iteration/run_successive_substitution_variant.m`
+- `04_Root_Finding_and_Iteration/successive_substitution_function.m`
+- `04_Root_Finding_and_Iteration/successive_substitution_function_variant.m`
+- `09_Practice_and_Exercises/engineering_calculations_practice.m`
+- `09_Practice_and_Exercises/plotting_and_curve_fit_practice.m`
+- `07_Chemical_Engineering_Applications/methane_specific_volume_eos.m`
+- `07_Chemical_Engineering_Applications/terminal_velocity_example.m`
+- `07_Chemical_Engineering_Applications/terminal_velocity_example_variant.m`
+- `07_Chemical_Engineering_Applications/terminal_velocity_function.m`
+- `05_Interpolation/lagrange_interpolation.m`
+- `05_Interpolation/newton_divided_difference.m`
